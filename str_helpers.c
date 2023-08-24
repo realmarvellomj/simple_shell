@@ -89,3 +89,4 @@ int _putchar(char ch)
 		buf[j++] = ch;
 	return (1);
 }
+
